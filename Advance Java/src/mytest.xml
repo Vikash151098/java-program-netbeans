@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="mytest.css"?>
+<people>
+    <person>
+        <name status="real">Derron Eriksson</name>
+        <birthdate>January 22,1972</birthdate>
+        <eyes>blue</eyes>
+    </person>
+    <person>
+        <name status="imaginary">Bob Smith</name>
+        <birthdate>December 25,1989</birthdate>
+        <eyes>brown</eyes>
+    </person>
+</people>

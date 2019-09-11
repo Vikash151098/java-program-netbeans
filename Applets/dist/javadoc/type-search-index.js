@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"aapplet","l":"AppletNew"}]

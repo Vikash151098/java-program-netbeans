@@ -1,0 +1,27 @@
+people
+{
+    background-color: lightsteelblue;
+    display: block;
+    padding: 10px;
+    font-family: sans-serif;
+}
+person
+{
+    background-color: chartreuse;
+    border: 2px solid black;
+    display: block;
+    margin-bottom: 10px;
+}
+name
+{
+    font-weight: bold;
+    display: block;
+}
+birthdate
+{
+    display: block;
+}
+eyes
+{
+    display: block;
+}

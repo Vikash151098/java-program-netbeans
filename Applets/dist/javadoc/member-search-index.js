@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"aapplet","c":"AppletNew","l":"AppletNew()"},{"p":"aapplet","c":"AppletNew","l":"paint(Graphics)","url":"paint(java.awt.Graphics)"}]
