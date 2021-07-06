@@ -97,7 +97,7 @@ public class MailApp extends JFrame implements ActionListener {
                 String message=a1.getText();
                 
                final String user="vikash991527@gmail.com";
-               final String pass="Vikash@1998";
+               final String pass=""; // password of above email
                 
                if(netIsAvailable())
                {
